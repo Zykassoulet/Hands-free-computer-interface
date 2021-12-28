@@ -176,7 +176,7 @@ class key_pressed:
     r = 'right'
     u = 'up'
     d = 'down'
-    b = None
+    b = 'f'
     n = None
     s = None  # shoot, while opening your mouth
 
