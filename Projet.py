@@ -12,7 +12,7 @@ import mouse
 
 
 def PCA(L):
-    # L describes the poinset, might be a list of arrays
+    # L describes the poinset, might be a list of arrays.
 
     n = len(L)
     d = 3  # generally, d = np.size(L[0])[O]
